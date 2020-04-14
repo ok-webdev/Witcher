@@ -1,6 +1,6 @@
 # Witcher
- ##Study project 
- 
- ##Not any commercial use.
+## Study project
 
-https://ok-webdev.github.io/Witcher/
+## Not any commercial use.
+
+[Github pages](https://ok-webdev.github.io/Witcher/) 
